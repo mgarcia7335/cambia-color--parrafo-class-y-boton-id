@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #c4a2a2;
+}
+
+#container{
+    margin: 100px;
+    text-align: center;
+    font-size: 30px;
+}
+
+#boton{
+    border-radius: 30px;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: yellow;
+    font-family: cursive;
+    margin: 30px;
+}
+
+.parrafo{
+    font-family: cursive;
+    font-size: 50px;
+}
+
+
+
+
