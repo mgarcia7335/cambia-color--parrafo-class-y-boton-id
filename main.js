@@ -15,25 +15,6 @@ boton.addEventListener("click", ()=> {
     }
 });
 
-       
-container.style.margin = "100px";
-container.style.textAlign = "center"; 
-container.style.fontSize = "30px";  
-
-boton.style.borderRadius = "30px";
-boton.style.padding = "10px 20px";
-boton.style.fontSize = "18px";
-boton.style.backgroundColor = "yellow"; 
-boton.style.fontFamily = "cursive";
-boton.style.margin = "30px";
-
-
-parrafo.style.fontFamily = "cursive";
-parrafo.style.fontSize = "50px";
-    
-        
-    
-
 
 
 
